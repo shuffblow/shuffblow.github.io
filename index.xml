@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>shuffblow的博客（施工中👷）</title>
     <link>https://shuffblow.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on shuffblow的博客（施工中👷）</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Feb 2025 18:19:35 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 21:10:08 +0800</lastBuildDate>
     <atom:link href="https://shuffblow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用Hugo&#43;GithubPages零成本搭建自己的博客</title>
+      <link>https://shuffblow.github.io/posts/%E4%BD%BF%E7%94%A8hugo&#43;githubpages%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Thu, 06 Feb 2025 21:10:08 +0800</pubDate>
+      <guid>https://shuffblow.github.io/posts/%E4%BD%BF%E7%94%A8hugo&#43;githubpages%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
+      <description>&lt;p&gt;看完本文你会了解：如何利用hugo搭建博客，如何将博客部署在githubpage上&lt;/p&gt;&#xA;&lt;h3 id=&#34;安装hugo&#34;&gt;安装hugo&lt;/h3&gt;&#xA;&lt;p&gt;mac环境下使用如下命令安装hugo：&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    brew install hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;可以输入如下命令验证hugo是否成功安装：&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    hugo version&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;生成博客&#34;&gt;生成博客&lt;/h3&gt;&#xA;&lt;p&gt;安装完成后，就可以输入以下命令创建博客项目，myblog为你的博客项目名，可以自己来定：&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    hugo new site myblog&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;创建成功后，进入myblog目录下操作&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Test</title>
       <link>https://shuffblow.github.io/posts/test/</link>

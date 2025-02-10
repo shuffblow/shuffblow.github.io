@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shuffblow.github.io/</loc>
-    <lastmod>2025-02-06T18:19:35+08:00</lastmod>
-  </url><url>
     <loc>https://shuffblow.github.io/posts/</loc>
-    <lastmod>2025-02-06T18:19:35+08:00</lastmod>
+    <lastmod>2025-02-06T21:10:08+08:00</lastmod>
+  </url><url>
+    <loc>https://shuffblow.github.io/</loc>
+    <lastmod>2025-02-06T21:10:08+08:00</lastmod>
+  </url><url>
+    <loc>https://shuffblow.github.io/posts/%E4%BD%BF%E7%94%A8hugo&#43;githubpages%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2025-02-06T21:10:08+08:00</lastmod>
   </url><url>
     <loc>https://shuffblow.github.io/posts/test/</loc>
     <lastmod>2025-02-06T18:19:35+08:00</lastmod>
